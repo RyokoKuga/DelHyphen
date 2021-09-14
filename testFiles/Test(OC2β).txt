@@ -1,0 +1,5 @@
+Ab initio and density functi-
+onal theory calculations typically
+require two main approxi-
+mations, the "method"[1-3] and
+the "basis set"[4]. 
